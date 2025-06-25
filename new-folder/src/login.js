@@ -11,7 +11,7 @@ const Login = () => {
       setError('Email and password are required.');
     } else {
       setError('');
-      // Add login logic here
+     
     }
   };
 
