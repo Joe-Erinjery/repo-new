@@ -12,7 +12,7 @@ const Signup = () => {
       setError('Please fill all fields.');
     } else {
       setError('');
-      // Add signup logic here, e.g., API call or localStorage
+     
     }
   };
 
