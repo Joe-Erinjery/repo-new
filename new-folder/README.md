@@ -21,4 +21,4 @@ This repository contains the final submission for the mobile application project
 - External data fetched and displayed with error handling
 
 ## 🎨 Figma Screens
-- Figma link: [Insert link if applicable]
+- Figma 
