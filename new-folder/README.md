@@ -3,7 +3,6 @@
 This repository contains the final submission for the mobile application project. It includes user authentication, local persistence, API integration, and notification features.
 
 ## 📁 Folder Structure
-- `screens/` – Screenshots as per submission checklist
 - `src/` – Source code files for each functionality
 - `user_stories.md` – List of 9 required user stories
 - `README.md` – Project overview and instructions
